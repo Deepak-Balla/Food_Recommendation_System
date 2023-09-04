@@ -8,10 +8,10 @@ food is filled with lots of spices. Which will be little confusion to know which
 various food of India with available ingredients. We used machine learning and also trained the data to give accurate results according to the user requirement. 
 
 ** Tools used in this project **
-Python
-Django
-HTML 
-CSS
-Java Script
-MySQL 
+Python,
+Django,
+HTML ,
+CSS,
+Java Script,
+MySQL ,
 Machine Learning
